@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934225081840",
+    "project_id": "ngcinsta-2c673",
+    "storage_bucket": "ngcinsta-2c673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934225081840:android:c8aa405d7f8b546bfc5935",
+        "android_client_info": {
+          "package_name": "com.tien.ngcinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934225081840-56v5t5jrep31vag6untfj2pvlqau18sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2f18JO-Jw2Qh2ILJhNnIo_2k1wAWOKSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934225081840-56v5t5jrep31vag6untfj2pvlqau18sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
